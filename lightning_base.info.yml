@@ -4,6 +4,7 @@ version: 8.x-dev
 description: 'Minimal lightning profile. No panels, no API'
 core: '8.x'
 dependencies:
+  - block
 
 themes:
   - seven
