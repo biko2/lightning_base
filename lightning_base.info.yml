@@ -1,6 +1,6 @@
 name: 'lightning_base'
 type: profile
-version: 3.0.0
+version: 3.2.0
 description: 'Minimal lightning profile. No panels, no API'
 core: '8.x'
 dependencies:
