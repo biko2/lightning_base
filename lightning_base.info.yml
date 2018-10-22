@@ -9,14 +9,13 @@ dependencies:
 themes:
   - seven
 
-base profile:
-  name: lightning
-  excluded_dependencies:
-    - lightning_api
-    - lightning_contact_form
-    - lightning_media_instagram
-    - lightning_media_twitter
-    - lightning_layout
-    - lightning_landing_page
-    - lightning_scheduler
-    - rdf
+base profile: lightning
+excluded_dependencies:
+  - lightning_api
+  - lightning_contact_form
+  - lightning_media_instagram
+  - lightning_media_twitter
+  - lightning_layout
+  - lightning_landing_page
+  - lightning_scheduler
+  - rdf
